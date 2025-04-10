@@ -73,6 +73,7 @@ Data pipeline from CSV to PostgreSQL using Python
 Connect with Me
 Olusegun
 📫 Email: [olukayodeoluseguno@gmail.com]
+
 🔗 LinkedIn: [www.linkedin.com/in/olukayodeolusegun]
 
 
