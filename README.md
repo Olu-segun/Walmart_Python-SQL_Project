@@ -8,7 +8,7 @@
 
 # 🛒 Walmart Sales Data Project: Data Cleaning & Business Insights
 
-This project demonstrates the complete **data cleaning** and **business intelligence (BI)** workflow for Walmart sales data using **Python (Pandas)** and **PostgreSQL**. It includes:
+This project demonstrates the complete **data cleaning** and **business intelligence (BI)** workflow for Walmart sales data using **Python (Pandas)** and **PostgreSQL**.
 
 ## 📌 Project Overview
 
