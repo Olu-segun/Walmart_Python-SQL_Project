@@ -1,3 +1,11 @@
+
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/1fb5a71e-5c32-4015-90a2-a925583740d1" />
+
+
+
+
+
+
 # 🛒 Walmart Sales Data Project: Data Cleaning & Business Insights
 
 This project demonstrates the complete **data cleaning** and **business intelligence (BI)** workflow for Walmart sales data using **Python (Pandas)** and **PostgreSQL**. It includes:
