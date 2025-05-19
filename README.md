@@ -78,10 +78,10 @@ Business KPIs: top categories, preferred payment methods, busiest times
 SQL querying skills applied to real-world scenarios
 Data pipeline from CSV to PostgreSQL using Python
 
-Connect with Me
-Olusegun
-📫 Email: [olukayodeoluseguno@gmail.com]
+# Connect with Me
 
-🔗 LinkedIn: [www.linkedin.com/in/olukayodeolusegun]
+**Email:** olukayodeoluseguno@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/olukayodeolusegun
 
 
